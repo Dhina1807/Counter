@@ -1,0 +1,27 @@
+.Counter-Container{
+    text-align:center;
+    font-family: Arial,  sans-serif;
+}
+
+.Count-display{
+    font-size: 10em;
+    margin-top: 0;
+    margin-bottom: 50px;
+
+}
+.Counter-button{
+    width: 150px;
+    height: 50px;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 0px 50px;
+    background-color: aqua;
+    color: azure;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.Counter-button:hover{
+    background-color: hsl(180, 94%, 30%);
+}
